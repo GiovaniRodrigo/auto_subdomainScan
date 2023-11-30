@@ -21,14 +21,21 @@ if len(subdominios) == 0:
 else:
     urls_code = []
     for i, arg in enumerate(subdominios):
-        print("Alvo: " + subdominios[i])
+        # print("Alvo: https://www." + subdominios[i])
         try: 
             consulta = requests.get('https://' + str(arg))
-            print("Consultando: https://www" + arg, "\n")
+            if consulta.status_code == 200:
+                print("\033[93m" + "Status code: ", consulta.status_code, arg)
+            else:
+                print("\033[34m" + "Status code: ", consulta.status_code, arg)
+                
             urls_code.append(arg + ": " + str(consulta.status_code))
             print("\n")
         except requests.exceptions.RequestException as e:
-            print('Erro ao consultar URL: ', e)
+            print("\033[31m" + "Erro ao consultar URL: " + arg)
+            print(e)
+            print("\n")
+
 
     for url_code in urls_code:
         print(url_code)

@@ -1,0 +1,214 @@
+Alvo: rio450anos.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='rio450anos.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e435d3670>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: www.guiadospais.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='www.guiadospais.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e435d2230>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: brumadinhoreparacaoedesenvolvimento.infografico.g1.globo.com
+Consultando: https://wwwbrumadinhoreparacaoedesenvolvimento.infografico.g1.globo.com 
+
+
+
+Alvo: vae.g1.globo.com
+Consultando: https://wwwvae.g1.globo.com 
+
+
+
+Alvo: especiais.sistemafiep.rpc.g1.globo.com
+Consultando: https://wwwespeciais.sistemafiep.rpc.g1.globo.com 
+
+
+
+Alvo: guiadospais.g1.globo.com
+Consultando: https://wwwguiadospais.g1.globo.com 
+
+
+
+Alvo: vcnog1.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='vcnog1.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e435d3e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: especiais.amarelas.rpc.g1.globo.com
+Consultando: https://wwwespeciais.amarelas.rpc.g1.globo.com 
+
+
+
+Alvo: especiais.educacaofinanceiranoparana.rpc.g1.globo.com
+Consultando: https://wwwespeciais.educacaofinanceiranoparana.rpc.g1.globo.com 
+
+
+
+Alvo: tour360clinipam.rpc.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='tour360clinipam.rpc.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c130>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+Alvo: fundacaorenova.g1.globo.com
+Consultando: https://wwwfundacaorenova.g1.globo.com 
+
+
+
+Alvo: rotinadosembarcados.g1.globo.com
+Consultando: https://wwwrotinadosembarcados.g1.globo.com 
+
+
+
+Alvo: static-enem.g1.globo.com
+Consultando: https://wwwstatic-enem.g1.globo.com 
+
+
+
+Alvo: retrospectiva.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='retrospectiva.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d090>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: www.especiais.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='www.especiais.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d180>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: webdisk.especiais.bahiafolia.redebahia.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='webdisk.especiais.bahiafolia.redebahia.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343cac0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: evidencias.chevrolet.g1.globo.com
+Consultando: https://wwwevidencias.chevrolet.g1.globo.com 
+
+
+
+Alvo: radar.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='radar.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: m.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='m.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: missaobioma.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='missaobioma.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343db70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: faunaeflora.terradagente.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='faunaeflora.terradagente.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1007)')))
+Alvo: videos360.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='videos360.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2e435d3970>, 'Connection to videos360.g1.globo.com timed out. (connect timeout=None)'))
+Alvo: especialgloboreporter40anos.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='especialgloboreporter40anos.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2e4343d7e0>, 'Connection to especialgloboreporter40anos.g1.globo.com timed out. (connect timeout=None)'))
+Alvo: enel.infografico.g1.globo.com
+Consultando: https://wwwenel.infografico.g1.globo.com 
+
+
+
+Alvo: api.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='api.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343df60>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+Alvo: appglobeleza.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='appglobeleza.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343ca30>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: inteligenciafinanceira.g1.globo.com
+Consultando: https://wwwinteligenciafinanceira.g1.globo.com 
+
+
+
+Alvo: especiais.bahiafolia.redebahia.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='especiais.bahiafolia.redebahia.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343dba0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: especial.g1.globo.com
+Consultando: https://wwwespecial.g1.globo.com 
+
+
+
+Alvo: coral.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='coral.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343e080>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: mail.especiais.bahiafolia.redebahia.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='mail.especiais.bahiafolia.redebahia.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d6c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: guia-das-cidades-da-copa.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='guia-das-cidades-da-copa.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343da20>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: www.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='www.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: conteudosespeciais.g1.globo.com
+Consultando: https://wwwconteudosespeciais.g1.globo.com 
+
+
+
+Alvo: rpc.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='rpc.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c910>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+Alvo: www.especial1.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='www.especial1.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d930>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: missaocentenario.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='missaocentenario.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343dcc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: sintoniaeleitoral.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='sintoniaeleitoral.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+Alvo: pordosol.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='pordosol.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c0d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Alvo: weather.api.g1.globo.com
+Consultando: https://wwwweather.api.g1.globo.com 
+
+
+
+Alvo: homol-fant360.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='homol-fant360.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c9d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: quintoandar.g1.globo.com
+Consultando: https://wwwquintoandar.g1.globo.com 
+
+
+
+Alvo: whm.especiais.bahiafolia.redebahia.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='whm.especiais.bahiafolia.redebahia.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c460>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: especial1.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='especial1.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343e5f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: beta.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='beta.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2e4343c370>, 'Connection to beta.g1.globo.com timed out. (connect timeout=None)'))
+Alvo: interativos.g1.globo.com
+Consultando: https://wwwinterativos.g1.globo.com 
+
+
+
+Alvo: mortandelaweek.g1.globo.com
+Consultando: https://wwwmortandelaweek.g1.globo.com 
+
+
+
+Alvo: videosespeciais.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='videosespeciais.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'videosespeciais.g1.globo.com' doesn't match 'ac.globoi.com'")))
+Alvo: appnarua.globonews.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='appnarua.globonews.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c970>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))
+Alvo: onboardwidgetios.g1.globo.com
+Consultando: https://wwwonboardwidgetios.g1.globo.com 
+
+
+
+Alvo: streaming-1-radar.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='streaming-1-radar.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343caf0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: lollapalooza-bradesco.g1.globo.com
+Consultando: https://wwwlollapalooza-bradesco.g1.globo.com 
+
+
+
+Alvo: webmail.especiais.bahiafolia.redebahia.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='webmail.especiais.bahiafolia.redebahia.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343e4d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: naestradacomquemfaz.g1.globo.com
+Consultando: https://wwwnaestradacomquemfaz.g1.globo.com 
+
+
+
+Alvo: institutoculturalvale.g1.globo.com
+Consultando: https://wwwinstitutoculturalvale.g1.globo.com 
+
+
+
+Alvo: geo-api.g1.globo.com
+Consultando: https://wwwgeo-api.g1.globo.com 
+
+
+
+Alvo: apuracao.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='apuracao.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343e470>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: apibolao.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='apibolao.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343e470>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: batalhas.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='batalhas.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343e470>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: vale.g1.globo.com
+Consultando: https://wwwvale.g1.globo.com 
+
+
+
+Alvo: carnavalbrahma.g1.globo.com
+Consultando: https://wwwcarnavalbrahma.g1.globo.com 
+
+
+
+Alvo: admin-new.appnarua.globonews.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='admin-new.appnarua.globonews.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d030>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: api.appnarua.globonews.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='api.appnarua.globonews.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343d030>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: eneva.g1.globo.com
+Consultando: https://wwweneva.g1.globo.com 
+
+
+
+Alvo: evitecairemgolpes.g1.globo.com
+Consultando: https://wwwevitecairemgolpes.g1.globo.com 
+
+
+
+Alvo: dynamo.g1.globo.com
+Erro ao consultar URL:  HTTPSConnectionPool(host='dynamo.g1.globo.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f2e4343c730>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+Alvo: em-movimento.g1.globo.com
